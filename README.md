@@ -5,12 +5,12 @@ What are Cardiovascular diseases ?
 
 Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels and they include:
 
-	coronary heart disease – disease of the blood vessels supplying the heart muscle;
-	cerebrovascular disease – disease of the blood vessels supplying the brain;
-	peripheral arterial disease – disease of blood vessels supplying the arms and legs;
-	rheumatic heart disease – damage to the heart muscle and heart valves from rheumatic fever, caused by streptococcal bacteria;
-	congenital heart disease – malformations of heart structure existing at birth;
-	deep vein thrombosis and pulmonary embolism – blood clots in the leg veins, which can dislodge and move to the heart and lungs.
+	-> coronary heart disease – disease of the blood vessels supplying the heart muscle;
+	-> cerebrovascular disease – disease of the blood vessels supplying the brain;
+	-> peripheral arterial disease – disease of blood vessels supplying the arms and legs;
+	-> rheumatic heart disease – damage to the heart muscle and heart valves from rheumatic fever, caused by streptococcal bacteria;
+	-> congenital heart disease – malformations of heart structure existing at birth;
+	-> deep vein thrombosis and pulmonary embolism – blood clots in the leg veins, which can dislodge and move to the heart and lungs.
 	
 World Health Organization has estimated 12 million deaths occur worldwide, every year due to Heart diseases. Half the deaths in the United States and other developed countries are due to cardio vascular diseases. The early prognosis of cardiovascular diseases can aid in making decisions on lifestyle changes in high risk patients and in turn reduce the complications. This project intends to pinpoint the most relevant/risk factors of heart disease as well as predict the overall risk using logistic regression model.
 
